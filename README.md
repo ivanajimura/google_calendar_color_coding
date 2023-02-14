@@ -1,5 +1,3 @@
-# google_calendar_scripts
-
 # Color Coding Events in Google Calendar
 
 Use Google Calendar but want to change event colors automatically? This script allows you to change colors of events based on keywords and number of participants.
