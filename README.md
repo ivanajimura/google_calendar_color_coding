@@ -20,17 +20,17 @@ To automate the execution:
 - Select your script
 - Define the frequency
 
-## Apêndice
+## Thanks
 
 Based on [Marguerite Thibodeaux's app script](https://www.linkedin.com/pulse/automate-color-coding-your-google-calendar-marguerite-thibodeaux-acc/?trk=articles_directory)
 
 
-## Autores
+## Authors
 
 - [@ivanajimura](https://github.com/ivanajimura/)
 
 
-## Referência
+## Reference
 
  - [Automate Color Coding Your Google Calendar](https://www.linkedin.com/pulse/automate-color-coding-your-google-calendar-marguerite-thibodeaux-acc/?trk=articles_directory)
  - [AppsScript Calendar Documentation](https://developers.google.com/apps-script/reference/calendar?hl=pt-br)
